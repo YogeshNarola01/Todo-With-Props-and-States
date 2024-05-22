@@ -40,3 +40,51 @@
 .read-the-docs {
   color: #888;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main{
+  border: 1px solid grey;
+  padding: 20px 0 50px 0;
+  border-radius: 20px;
+  background: linear-gradient(-45deg, #ee765286, #e73c7e88, #23a5d583, #23d5ab83);
+  animation: gradient 15s ease infinite;
+}
+
+.btn{
+  background:linear-gradient(-45deg, #ee765286, #e73c7e88, #23a5d583, #23d5ab83);
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+  border: 1px solid transparent;
+  border-radius: 20px;
+}
+
+.th,td{
+  height: 25px;
+  padding: 10px;
+}
+
+.input{
+  width: 200px;
+  height: 25px;
+  background-color: transparent;
+  border-radius: 15px;
+  font-size: 14px;
+  padding: 0 5px 0 5px;
+}
